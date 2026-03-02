@@ -1,4 +1,4 @@
-OS 2 Obstacle Avoidance (TurtleBot3)
+ROS 2 Obstacle Avoidance (TurtleBot3)
 Overview: An autonomous navigation project using ROS 2 Humble and Gazebo to detect and avoid obstacles in real-time.
 
 DATA FLOW
