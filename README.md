@@ -2,6 +2,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10-yellow)
 ![Gazebo](https://img.shields.io/badge/Simulation-Gazebo-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+
 ROS 2 Obstacle Avoidance (TurtleBot3)
 Overview: An autonomous navigation project using ROS 2 Humble and Gazebo to detect and avoid obstacles in real-time.
 
