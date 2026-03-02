@@ -1,7 +1,6 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
 ![Python](https://img.shields.io/badge/Python-3.10-yellow)
 ![Gazebo](https://img.shields.io/badge/Simulation-Gazebo-orange)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 
 ROS 2 Obstacle Avoidance (TurtleBot3)
